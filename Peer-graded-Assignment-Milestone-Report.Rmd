@@ -1,6 +1,6 @@
 ---
 title: "Data Science Capstone Peer-graded Assignment: Milestone Report"
-author: "Arjun L"
+author: "Manjunath N"
 date: "15/01/2025"
 output: html_document
 ---
